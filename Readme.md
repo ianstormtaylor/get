@@ -1,6 +1,6 @@
 # get
 
-  Get a property from a model or object.
+  Get a property from a model or object. For the reverse, checkout [`ianstormtaylor/set`](https://github.com/ianstormtaylor/set).
 
 ## Installation
 
